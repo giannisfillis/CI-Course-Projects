@@ -18,7 +18,6 @@ The algorithms for neural network classification and data clustering were implem
 1. [Project 1: Multilayer Perceptron (MLP) Classification](#project-1-multilayer-perceptron-mlp-classification)
 2. [Project 2: K-Means Clustering](#project-2-k-means-clustering)
 3. [Compilation and Execution](#compilation-and-execution)
-4. [Project Structure](#project-structure)
 
 ---
 
